@@ -1,5 +1,5 @@
 {
-  "name": "@tostu/tostulib-svelte",
+  "name": "tostulib-svelte",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
