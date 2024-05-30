@@ -1,5 +1,4 @@
 <script lang="ts">
-	import "../global.css"
 	export let hideFooter = false;
 </script>
 
