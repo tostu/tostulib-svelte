@@ -4,8 +4,8 @@
 
 <div class="flex min-h-svh flex-col">
 	<slot name="header"/>
-	<div class="flex-grow">
-		<slot name="main" class="flex flex-col"/>
+	<div class="flex-grow flex flex-col">
+		<slot name="main"/>
 		{#if !hideFooter}
 			<slot name="footer"/>
 		{/if}
